@@ -1,0 +1,8 @@
+Team.php
+
+- Add some pics and brief description
+
+Project.php 
+
+-Explain the project and have a ppt available or docs availble for download
+
